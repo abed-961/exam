@@ -5,3 +5,5 @@ function click() {
 }
 
 console.log("this is the m4 in main branch ");
+
+const b2 = "this is b2-m2 commmit ";
