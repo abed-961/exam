@@ -5,3 +5,4 @@ function click() {
 }
 
 console.log("this is the m4 in main branch ");
+console.log("we creating b2 after commit m4 ");
