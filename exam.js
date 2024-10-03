@@ -5,3 +5,5 @@ function click() {
 }
 
 console.log("here is the first commit in b1 branch ");
+
+const b1 = "b1-m2 commit ";
